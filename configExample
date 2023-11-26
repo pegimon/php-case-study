@@ -1,0 +1,6 @@
+//make config.ini file with this template
+[database]
+host = "database_host"
+user = "database_user"
+password = "database_password"
+name = "database_name"
